@@ -13,17 +13,27 @@ Software: Python 3.7.9, Jupyter Notebook 6.0.3, Anaconda Navigator 1.9.12, Conda
 ![image](https://github.com/awill1786/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/NRO_imbalanced_classification_report.png?raw=true)
 ### SMOTE Oversampling
 #### Balanced Accuracy Score
+![image](https://github.com/awill1786/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/SMOTE_balanced_accuracy_score.png?raw=true)
 #### Imbalanced Classification Report
+![image](https://github.com/awill1786/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/SMOTE_imbalanced_classification_report.png?raw=true)
 ### Undersampling
 #### Balanced Accuracy Score
+![image](https://github.com/awill1786/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/Under_balanced_accuracy_score.png?raw=true)
 #### Imbalanced Classification Report
+![image](https://github.com/awill1786/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/Under_imbalanced_classification_report.png?raw=true)
 ### Combination Sampling
 #### Balanced Accuracy Score
+![image](https://github.com/awill1786/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/Comb_balanced_accuracy_score.png?raw=true)
 #### Imbalanced Classification Report
+![image](https://github.com/awill1786/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/Comb_imbalanced_classification_report.png?raw=true)
 ### Balanced Random Forest Classifier
 #### Balanced Accuracy Score
+![image](https://github.com/awill1786/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/BRFC_balanced_accuracy_score.png?raw=true)
 #### Imbalanced Classification Report
+![image](https://github.com/awill1786/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/BRFC_imbalanced_classification_report.png?raw=true)
 ### Easy Ensemble AdaBoost Classifier
 #### Balanced Accuracy Score
+![image](https://github.com/awill1786/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/EEAC_balanced_accuracy_score.png?raw=true)
 #### Imbalanced Classification Report
+![image](https://github.com/awill1786/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/EEAC_imbalanced_classification_report.png?raw=true)
 ## Summary
