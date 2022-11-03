@@ -8,6 +8,7 @@ Software: Python 3.7.9, Jupyter Notebook 6.0.3, Anaconda Navigator 1.9.12, Conda
 ## Results
 ### Naive Random Oversampling
 #### Balanced Accuracy Score
+![image](https://github.com/awill1786/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/NRO_balanced_accuracy_score.png?raw=true)
 #### Imbalanced Classification Report
 ### SMOTE Oversampling
 #### Balanced Accuracy Score
