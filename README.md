@@ -55,3 +55,5 @@ The balanced accuracy score is 79%. The high_risk precision is about 4% while th
 The balanced accuracy score is 93%. The high_risk precision is about 7% while the recall is at 91% and the low_risk precision is 100% while the recall is at 94%.
 
 ## Summary
+
+In Summary, the Naive Random Oversampling, SMOTE Oversampling, Undersampling, and Combination models have all have relatively low recall scores with the highest being from the 
