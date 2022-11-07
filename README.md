@@ -11,6 +11,9 @@ Software: Python 3.7.9, Jupyter Notebook 6.0.3, Anaconda Navigator 1.9.12, Conda
 ![image](https://github.com/awill1786/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/NRO_balanced_accuracy_score.png?raw=true)
 #### Imbalanced Classification Report
 ![image](https://github.com/awill1786/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/NRO_imbalanced_classification_report.png?raw=true)
+
+The balanced accuracy score is 63%. The high_risk precision is about 1% while the recall is at 62% and The low_risk precision is while the recall is at .
+
 ### SMOTE Oversampling
 #### Balanced Accuracy Score
 ![image](https://github.com/awill1786/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/SMOTE_balanced_accuracy_score.png?raw=true)
