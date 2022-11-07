@@ -56,4 +56,4 @@ The balanced accuracy score is 93%. The high_risk precision is about 7% while th
 
 ## Summary
 
-In Summary, the Naive Random Oversampling, SMOTE Oversampling, Undersampling, and Combination models have all have relatively low recall scores with the highest being from the 
+In Summary, the Naive Random Oversampling, SMOTE Oversampling, Undersampling, and Combination models have all have relatively low recall scores with the highest being from the Naive Random Oversampling at 68%. The next best model out of the six machine learning models used, was the Balanced Random Forest Classifier model
